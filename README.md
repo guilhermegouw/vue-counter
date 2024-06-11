@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vue-counter
-=======
 # vue-counter
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 177ed60 (init)
